@@ -7,4 +7,4 @@ Refer to the LED diagram in the [FRDM K64F Userguide](https://kf5011.github.io/d
 
 Summary of important pin names (https://os.mbed.com/teams/Freescale/wiki/frdm-k64f-pinnames)
 
-An overview of the board and the mbed library (https://kf5011.github.io/docs/FRDMK64FUG.pdf)
+An overview of the board and the mbed library (https://os.mbed.com/platforms/FRDM-K64F/)
